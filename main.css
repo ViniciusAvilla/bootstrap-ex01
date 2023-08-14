@@ -1,0 +1,26 @@
+* {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    align-items: center;
+    padding: 24px;
+    margin: 16px;
+}
+
+.form-control {
+    max-width: 1280px;
+    padding: 8px;
+    margin: 8px;
+    
+}
+
+.formulario {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
